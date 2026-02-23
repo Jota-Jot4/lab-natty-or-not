@@ -12,13 +12,13 @@ InVideo: edição do vídeo, geração de cenas e legendagem automática
 
 ## 🧐 Processo de Criação
 
-Roteirização
+Roteirização:
 Utilizei o ChatGPT para construir um roteiro com linguagem cinematográfica e progressão histórica (do passado ao presente), garantindo clareza e impacto.
 
-Refinamento Criativo
+Refinamento Criativo:
 Com o apoio do Gemini IA, refinei os prompts para melhorar a qualidade das cenas e tornar a narrativa mais envolvente.
 
-Produção do Vídeo
+Produção do Vídeo:
 O InVideo foi utilizado para transformar o roteiro em vídeo, selecionando imagens, aplicando transições dinâmicas e adicionando legendas sincronizadas.
 
 ## 🚀 Resultados
