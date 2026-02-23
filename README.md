@@ -22,6 +22,11 @@ Produção do Vídeo:
 O InVideo foi utilizado para transformar o roteiro em vídeo, selecionando imagens, aplicando transições dinâmicas e adicionando legendas sincronizadas.
 
 ## 🚀 Resultados
+O video mostra um pouco de como os computadores evoluiram até chegar nos tempos atuais.
+
+
+https://github.com/user-attachments/assets/8f42abf9-2471-416c-ab45-c00384074119
+
 
 
 ## 💭 Reflexão (Opcional)
